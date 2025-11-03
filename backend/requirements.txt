@@ -1,0 +1,6 @@
+Flask
+flask-cors
+pdfplumber
+pytesseract
+Pillow
+google-generativeai

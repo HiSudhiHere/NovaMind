@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+env/
+venv/
+uploaded.pdf
+uploaded.png
+uploaded.jpg
