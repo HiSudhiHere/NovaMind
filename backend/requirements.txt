@@ -1,6 +1,7 @@
-Flask
+flask
 flask-cors
 pdfplumber
 pytesseract
 Pillow
 google-generativeai
+gunicorn
